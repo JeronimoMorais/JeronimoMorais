@@ -4,7 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeronimocorreia/)](https://www.linkedin.com/in/jeronimocorreia/)
 
 ### About me
-Acadêmico no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE - Campus Recife). 
-👨🏼‍🏫 
-💻 
-✍🏼
+Acadêmico no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE - Campus Recife). 💻 ✍🏼
